@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @elimelechAdam
-- 👀 I’m interested in JS/Cybersecurity
 - 🌱 I’m currently learning JavaScript
